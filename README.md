@@ -67,9 +67,11 @@ Main page with all the products:
 ![Main page](https://github.com/baltsaros/19shop/blob/main/pics/main.jpeg)
 Version for small screens:
 ![Small](https://github.com/baltsaros/19shop/blob/main/pics/mobile.jpeg)
-Product page:
+Product page before selection:
 ![Product page 1](https://github.com/baltsaros/19shop/blob/main/pics/product_page.jpeg)
+Product page after size and color selection:
 ![Product page 2](https://github.com/baltsaros/19shop/blob/main/pics/product_page2.jpeg)
+Product page after selection a variant with a different image:
 ![Product page 3](https://github.com/baltsaros/19shop/blob/main/pics/product_page3.jpeg)
 Notifications:
 ![Messages](https://github.com/baltsaros/19shop/blob/main/pics/message.jpeg)
@@ -82,6 +84,7 @@ Order details:
 Form examples:
 ![Form 1](https://github.com/baltsaros/19shop/blob/main/pics/add_product.jpeg)
 ![Form 2](https://github.com/baltsaros/19shop/blob/main/pics/size_form.jpeg)
-Management pages:
+Order management:
 ![Manage orders](https://github.com/baltsaros/19shop/blob/main/pics/manage_orders.jpeg)
+Stock management:
 ![Manage stock](https://github.com/baltsaros/19shop/blob/main/pics/manage_stock.jpeg)
